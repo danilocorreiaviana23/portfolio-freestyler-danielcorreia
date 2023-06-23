@@ -1,0 +1,13 @@
+.botao-fixotop {
+    position: fixed;
+    border-radius: 30px;
+    bottom: 20px;
+    right:20px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.botao-fixotop:active{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+}
