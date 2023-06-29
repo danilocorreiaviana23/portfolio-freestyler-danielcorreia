@@ -1,3 +1,3 @@
-# Projeto de Portfólio para o meu irmão (Daniel Correia)
+# Projeto de Portfólio (Daniel Correia)
 
 Um website portfólio pensado para um atleta de futebol freestyle.
